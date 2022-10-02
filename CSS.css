@@ -5,3 +5,69 @@
 text-align:center;
 
 }
+
+
+#q{
+    text-align: center;
+
+}
+
+
+
+
+
+
+#w{
+
+    text-align: center;
+}
+
+div { text-align: center; }
+ul { display: inline-block; text-align: left; }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+div { text-align: center; }
+ul { display: inline-block; text-align: left; }
+
+
+
+
+
+#Answer{
+    text-align:center;
+}
+button{
+background: darkgray;
+color:white;
+border: none;
+display: block;
+width: 100%;
+cursor: pointer;
+font-size: 1.1rem;
+padding: 1.1rem;
+}
+
+
+
+
+body{
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 10px;
+    flex-direction: column;
+
+}
+
+
+
+
