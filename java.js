@@ -1,12 +1,6 @@
 console.log("hej");
 
 
-const buttonAnswer = document.querySelector('#Answer');
-console.log(buttonAnswer)
-buttonAnswer.addEventListener('click', function() {
-    console.log('clicked button')
-
-})
 
 
 const buttonAnswer2 = document.querySelector('#Answer2');
@@ -14,8 +8,14 @@ console.log(buttonAnswer2)
 buttonAnswer2.addEventListener('click', function() {
     console.log('clicked button');
 
+   //header.style.display = "none";
 
+    //header.style.display = "block";
 })
+
+
+
+
 
 
 const questions = [
@@ -46,5 +46,7 @@ const questions2 = [
     },
 
 ]
+
+
 
 
