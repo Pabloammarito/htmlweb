@@ -4,27 +4,6 @@
 
 
 
-#p{
-text-align:center;
-
-}
-
-
-#q{
-    text-align: center;
-
-}
-
-
-
-
-
-
-#w{
-
-    text-align: center;
-}
-
 div { text-align: center; }
 ul { display: inline-block; text-align: left; }
 
@@ -45,8 +24,13 @@ ul { display: inline-block; text-align: left; }
 #Answer{
     text-align:center;
 }
+
+/*Credit Nadine
+
+ */
+
 button{
-background: darkgray;
+background: dodgerblue;
 color:white;
 border: none;
 display: block;
@@ -60,6 +44,10 @@ padding: 1.1rem;
 
 
 
+/*//credit abdul- noget af det
+
+ */
+
 body{
     background-color: darkcyan;
     background-image: linear-gradient(315deg,floralwhite 0%, darkcyan 100%);
@@ -67,8 +55,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    overflow: hidden;
+    height: 170vh;
     margin: 10px;
     flex-direction: column;
 
